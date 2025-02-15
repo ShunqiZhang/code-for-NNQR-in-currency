@@ -1,0 +1,1 @@
+# code-for-NNQR-in-currency
