@@ -14,4 +14,5 @@ This isthea file of the daily series of the VIX.
 This is a library for estimating VaR using the CAViaR model.
 ## References
 Engle, R. F., & Manganelli, S. (2004). CAViaR: Conditional autoregressive value at risk by regression quantiles. Journal of business & economic statistics, 22(4), 367-381.
+
 G. Keilbar, W. Wang, Modelling systemic risk using neural network quantile regression, Empirical Economics 62 (2022) 93–118.
